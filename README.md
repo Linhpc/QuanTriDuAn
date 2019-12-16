@@ -1,5 +1,7 @@
 # QuanTriDuAn
 # Nhóm 1
+# GVHD: THẦY NGUYỄN ĐỨC TIẾN
+# TÊN DỰ ÁN: 
 # Thành viên
 # 1. Nguyễn Văn Thanh
 # 2. Phạm Cẩm Linh
